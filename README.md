@@ -5,6 +5,8 @@ First of all, fill in the necessary information for your account that you want t
 
 First step when you download the zip file unzip to any folder
 
-Second open the folder and double click the SniperBot.py
+Second open cmd and go inside the folder from cmd then use pip install -r requirements.txt
+
+Third open the folder and double click the SniperBot.py
 
 And just this the program will be open and read the user agreements.
