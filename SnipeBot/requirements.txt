@@ -1,0 +1,7 @@
+selenium==4.11.2
+PyAutoGUI==0.9.53
+pillow==10.2.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+replace==2020.12.3
+keyboard==0.13.5
